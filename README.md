@@ -28,4 +28,4 @@
 - **Telegram**: [@DIMETRIIS](https://t.me/DIMETRIIS)
 
 ## Мои проекты
-
+- Машина Атвуда: [ссылка на репозиторий](https://github.com/Codemaestro-Dmitry/Atwood_machine) 
