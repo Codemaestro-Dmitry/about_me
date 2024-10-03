@@ -26,3 +26,6 @@
 Если у вас есть вопросы или предложения, вы можете связаться со мной:
 - **Email**: [CodeMaestroDmitry@yandex.ru](mailto:CodeMaestroDmitry@yandex.ru)
 - **Telegram**: [@DIMETRIIS](https://t.me/DIMETRIIS)
+
+## Мои проекты
+
