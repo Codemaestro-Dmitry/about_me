@@ -37,9 +37,7 @@
 </p>
 
 #### Прочее
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/diagrams/diagrams-original.svg" width="24" title="UML (диаграммы классов, последовательностей)"/>
-</p>
+UML: диаграммы классов, диаграммы прецедентов, расширенной диаграммы прецедентов, диаграммы деятельности, диаграммы последовательностей
 
 ## Контакты
 
