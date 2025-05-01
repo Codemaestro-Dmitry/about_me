@@ -46,4 +46,5 @@ UML: диаграммы классов, диаграммы прецеденто�
 - **Telegram**: [@DIMETRIIS](https://t.me/DIMETRIIS)
 
 ## Мои проекты
-- Машина Атвуда: [ссылка на репозиторий](https://github.com/Codemaestro-Dmitry/Atwood_machine) 
+- [Машина Атвуда](https://github.com/Codemaestro-Dmitry/Atwood_machine)
+- [Поиск пути на графах](https://github.com/Codemaestro-Dmitry/NIR_Fedosov_Dmitrii_Dmitrievich_PRIb-231-2025-)
