@@ -43,7 +43,7 @@ UML: диаграммы классов, диаграммы прецеденто�
 
 Если у вас есть вопросы или предложения, вы можете связаться со мной:
 - **Email**: [CodeMaestroDmitry@yandex.ru](mailto:CodeMaestroDmitry@yandex.ru)
-- **Telegram**: [@DIMETRIIS](https://t.me/DIMETRIIS)
+- **Telegram**: [@secretarishka_bot](https://t.me/secretarishka_bot) (Это бот-секретарь, если вам нужен мой личный тг или номер, напишите ему или на почту)
 
 ## Мои проекты
 - [Машина Атвуда](https://github.com/Codemaestro-Dmitry/Atwood_machine)
